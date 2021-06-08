@@ -1,0 +1,8 @@
+node_modules
+.eslintcache
+coverage
+dist
+.npm
+.env
+.serverless/
+.webpack
