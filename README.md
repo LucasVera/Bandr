@@ -23,9 +23,9 @@ This project was generated using the `aws-nodejs-typescript` template from the [
 
 ##### Requirements
 
-> NodeJS
-> Git
-> (optional) Postman
+- NodeJS
+- Git
+- (optional) Postman
 
 ##### Steps
 1. Clone the project in your machine
